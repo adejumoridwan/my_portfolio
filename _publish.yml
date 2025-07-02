@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8100d74a-1413-47a8-ae7c-69787aee4a28
+      url: https://magnificent-crostata-a59dc9.netlify.app

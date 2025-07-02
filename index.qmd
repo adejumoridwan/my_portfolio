@@ -1,5 +1,19 @@
 ---
 title: "Ridwan Suleiman Adejumo"
+about:
+  template: marquee
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/adejumoridwan/
+    - icon: github
+      text: GitHub
+      href: https://github.com/adejumoridwan
+
+    #- icon: whatsapp
+     # text: WhatsApp
+      #href: https://whatsapp.com/channel/0029VaTJcmeFSAtAdG2SV02n 
+    # (additional links excluded for brevity)
 ---
 
 **Ridwan Suleiman Adejumo** is a skilled **Data Scientist**, **Technical Writer**, and **Social Media Marketing Analytics** specialist. He is the **Founder of LearnData**, a consulting firm that empowers businesses and individuals with data-driven insights, training, and tailored analytics solutions.
