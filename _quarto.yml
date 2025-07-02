@@ -11,11 +11,19 @@ website:
 
 format:
   html:
+    include-in-header:
+        - text: |
+            <meta name="facebook-domain-verification" content="h90g6bnczk515hj3d5ux21cbrzjhr5" />
+
+
     theme:
-      - cosmo
-      - brand
+      light: pulse
+      dark: slate
     css: styles.css
     toc: true
+  
 
 editor: visual
+
+
 
